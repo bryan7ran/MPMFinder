@@ -1,0 +1,10 @@
+  {
+    "name": "MPM Finder",
+    "version": "1.0",
+    "description": "Look up Aeroplan MPM after performing a multi-city search!",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+      },
+    "manifest_version": 2
+  }
